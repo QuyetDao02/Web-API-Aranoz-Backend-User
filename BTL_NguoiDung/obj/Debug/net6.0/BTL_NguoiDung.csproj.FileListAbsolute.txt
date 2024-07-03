@@ -1,0 +1,200 @@
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\appsettings.Development.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\appsettings.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.exe
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.deps.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.runtimeconfig.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\DAL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Model.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\BLL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\Model.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\bin\Debug\net6.0\DAL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.AssemblyReference.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfoInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfo.cs
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CoreCompileInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cs
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.build.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.development.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\scopedcss\bundle\BTL_NguoiDung.styles.css
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CopyComplete
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\refint\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.genruntimeconfig.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BTL_NguoiDung\obj\Debug\net6.0\ref\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.Development.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.exe
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.deps.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.runtimeconfig.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.AssemblyReference.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfoInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfo.cs
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CoreCompileInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cs
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.build.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.development.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\scopedcss\bundle\BTL_NguoiDung.styles.css
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CopyComplete
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\refint\BTL_NguoiDung.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.genruntimeconfig.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\ref\BTL_NguoiDung.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.Development.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.exe
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.deps.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.runtimeconfig.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.AssemblyReference.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfoInputs.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfo.cs
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CoreCompileInputs.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cs
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.build.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.development.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\scopedcss\bundle\BTL_NguoiDung.styles.css
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CopyComplete
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\refint\BTL_NguoiDung.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.genruntimeconfig.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\ref\BTL_NguoiDung.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.Development.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\appsettings.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.exe
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.deps.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.runtimeconfig.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\BLL.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\Model.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\bin\Debug\net6.0\DAL.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.AssemblyReference.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.GeneratedMSBuildEditorConfig.editorconfig
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfoInputs.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.AssemblyInfo.cs
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CoreCompileInputs.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cs
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.MvcApplicationPartsAssemblyInfo.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.build.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\staticwebassets.development.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\scopedcss\bundle\BTL_NguoiDung.styles.css
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.csproj.CopyComplete
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\refint\BTL_NguoiDung.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\BTL_NguoiDung.genruntimeconfig.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\User\BTL_NguoiDung\BTL_NguoiDung\obj\Debug\net6.0\ref\BTL_NguoiDung.dll
